@@ -64,6 +64,17 @@ h1, h2, h3 {
     color: #333;
 }
 
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #444;
+    color: #fff;
+}
+
+.clear {
+    clear: both;
+}
+
 #navbar {
     background-color: #333;
     color: #fff;
@@ -149,4 +160,8 @@ h1, h2, h3 {
     width: 33.3%;
     padding: 50px;
     text-align: center;
+}
+
+#features .box i {
+    margin-bottom: 15px;
 }
